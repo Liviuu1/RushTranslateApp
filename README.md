@@ -3,7 +3,7 @@
 ## Project Deliverables
 - **Full Source Code:** This repository contains the complete source code for both the client (React Native/Expo) and server (Node.js/Express) applications. No compiled binaries are included.
 - **Repository Address:**
-  - _[Insert your GitHub or other repository address here, e.g., https://github.com/yourusername/RushTranslate]_  
+  - https://github.com/Liviuu1/RushTranslateApp
   - The repository contains all code under the `client/` and `server/` directories.
 
 ## Application Compilation, Installation, and Launch Steps
