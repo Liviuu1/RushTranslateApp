@@ -1,0 +1,64 @@
+{
+  "common": {
+    "appName": "RushTranslate"
+  },
+  "home": {
+    "type_text_here": "Tastați text aici...",
+    "home": "Acasă",
+    "saved": "Salvat",
+    "settings": "Setări"
+  },
+  "settings": {
+    "dark_mode": "Mod Întunecat",
+    "language": "Setări de Limbă",
+    "offline": "Setări Offline",
+    "privacy": "Politica de Confidențialitate",
+    "clear_data": "Șterge Datele Aplicației",
+    "feedback": "Feedback",
+    "help": "Centru de Ajutor",
+    "app_version": "Versiunea Aplicației: {{version}}"
+  },
+  "saved": {
+    "title": "Salvate",
+    "travel_essentials": "Esențiale de călătorie",
+    "business_essentials": "Esențiale de afaceri",
+    "medical_care_essentials": "Îngrijiri medicale esențiale",
+    "size_mb": "{{size}} MB",
+    "download": "Descarcă",
+    "remove": "Șterge",
+    "downloading": "Se descarcă...",
+    "clear_all_downloads": "Șterge toate descărcările"
+  },
+  "welcome": {
+    "subtitle": "Tradu cu ușurință offline în peste 20 de limbi",
+    "get_started": "Începe"
+  },
+  "languageSettings": {
+    "title": "Setări de Limbă",
+    "languages": {
+      "en": "Engleză",
+      "ro": "Română"
+    }
+  },
+  "offlineSettings": {
+    "title": "Setări Offline",
+    "description": "Gestionați preferințele offline și descărcările."
+  },
+  "privacyPolicy": {
+    "title": "Politica de Confidențialitate",
+    "description": "Citiți politica noastră de confidențialitate pentru a înțelege cum gestionăm datele dumneavoastră."
+  },
+  "clearAppData": {
+    "title": "Șterge Datele Aplicației",
+    "description": "Ștergeți toate datele aplicației, inclusiv preferințele și elementele salvate.",
+    "button": "Șterge Datele"
+  },
+  "feedback": {
+    "title": "Feedback",
+    "description": "Apreciem feedback-ul dumneavoastră. Vă rugăm să ne spuneți cum putem îmbunătăți."
+  },
+  "helpCenter": {
+    "title": "Centru de Ajutor",
+    "description": "Găsiți răspunsuri la întrebări frecvente sau contactați suportul pentru asistență."
+  }
+}
