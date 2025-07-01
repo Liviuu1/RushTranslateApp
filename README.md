@@ -447,7 +447,7 @@ Before you begin, ensure you have met the following requirements:
 1. Clone this repository to your local machine:
 
     ```bash
-    git clone https://github.com/cosmin-oros/RushTranslate.git
+    git clone https://github.com/liviuu1/RushTranslate.git
     ```
 
 2. Navigate to the project directory:
